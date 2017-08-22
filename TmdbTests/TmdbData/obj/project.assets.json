@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbData\\TmdbData.csproj",
+      "projectUniqueName": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbData\\TmdbData.csproj",
       "projectName": "TmdbData",
-      "projectPath": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbData\\TmdbData.csproj",
-      "outputPath": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbData\\obj\\",
+      "projectPath": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbData\\TmdbData.csproj",
+      "outputPath": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbData\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

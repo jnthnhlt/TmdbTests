@@ -7743,10 +7743,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbClient\\TestClients.csproj",
+      "projectUniqueName": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbClient\\TestClients.csproj",
       "projectName": "TestClients",
-      "projectPath": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbClient\\TestClients.csproj",
-      "outputPath": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbClient\\obj\\",
+      "projectPath": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbClient\\TestClients.csproj",
+      "outputPath": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbClient\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7754,8 +7754,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbData\\TmdbData.csproj": {
-              "projectPath": "C:\\Users\\i67856\\documents\\visual studio 2017\\Projects\\TmdbTests\\TmdbData\\TmdbData.csproj"
+            "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbData\\TmdbData.csproj": {
+              "projectPath": "C:\\Users\\i67856\\Documents\\GitHub\\TmdbTests\\TmdbTests\\TmdbData\\TmdbData.csproj"
             }
           }
         }
