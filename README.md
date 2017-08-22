@@ -4,21 +4,21 @@ To run tests, please use the following steps:
 
 1. Edit the test.runsettings file in the TmdbTests project, or create a new one.
 
-<?xml version="1.0" encoding="utf-8"?>
-<RunSettings>
-  <!-- Parameters used by tests at runtime -->
-  <TestRunParameters>
-    <Parameter name="baseUrl" value="" />
-    <Parameter name="apiKey" value="" />
-  </TestRunParameters>
-</RunSettings>
+   `<?xml version="1.0" encoding="utf-8"?>
+    <RunSettings>
+      <!-- Parameters used by tests at runtime -->
+      <TestRunParameters>
+        <Parameter name="baseUrl" value="" />
+        <Parameter name="apiKey" value="" />
+      </TestRunParameters>
+    </RunSettings>`
 
 This will allow you to change the baseUrl and apiKey values.
 The URL used for initial testing is: https://api.themoviedb.org/3/
 
 2. Use the default test data, or add some of your own to validate.  To do this, add your expected movie data to the TmdbTests/ExternalData directory. Use an existing culture code directory, or create the appropriate one that you need.  The format should be language-region, in the form of xx-XX.  The data should follow the schema provided by tmdb.  An example is provided below.
 
-{
+`{
   "adult": false,
   "backdrop_path": "/fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
   "belongs_to_collection": null,
@@ -64,7 +64,7 @@ The URL used for initial testing is: https://api.themoviedb.org/3/
   "video": false,
   "vote_average": 7.8,
   "vote_count": 3439
-}
+}`
 
 3. Use dotnet test to perform a test run.  Navigate to the test project directory and use the following command from the windows command line:
 
