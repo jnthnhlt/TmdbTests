@@ -4,14 +4,14 @@ To run tests, please use the following steps:
 
 1. Edit the test.runsettings file in the TmdbTests project, or create a new one.
 
-   `<?xml version="1.0" encoding="utf-8"?>
+   ```<?xml version="1.0" encoding="utf-8"?>
     <RunSettings>
       <!-- Parameters used by tests at runtime -->
       <TestRunParameters>
         <Parameter name="baseUrl" value="" />
         <Parameter name="apiKey" value="" />
       </TestRunParameters>
-    </RunSettings>`
+    </RunSettings>```
 
 This will allow you to change the baseUrl and apiKey values.
 The URL used for initial testing is: https://api.themoviedb.org/3/
