@@ -64,7 +64,8 @@ The URL used for initial testing is: https://api.themoviedb.org/3/
   "video": false,
   "vote_average": 7.8,
   "vote_count": 3439
-}```
+}
+```
 
 3. Install .NET Core SDK if you don't already have it.  https://www.microsoft.com/net/core#windowscmd . Use dotnet test to perform a test run.  Navigate to the test project directory and use the following command from the windows command line:
 
