@@ -3,6 +3,6 @@
   <!-- Parameters used by tests at runtime -->
   <TestRunParameters>
     <Parameter name="baseUrl" value="https://api.themoviedb.org/3/" />
-    <Parameter name="apiKey" value="" />
+    <Parameter name="apiKey" value="5e32a1958c3dff857f5469a6e8fe3119" />
   </TestRunParameters>
 </RunSettings>

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "dc2471d1a0790dec27e5d91663d9be6cca688d54"
+    "signature": "911c6da6b64b52b6183665a0c7a265bacf5fb8ba"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.3.0",
           "NUnit": "3.7.1",
+          "NUnit.ConsoleRunner": "3.7.0",
           "NUnit3TestAdapter": "3.8.0",
           "Newtonsoft.Json": "10.0.3",
           "TestClients": "1.0.0"
@@ -286,6 +287,7 @@
           "lib/netstandard1.6/nunit.framework.dll": {}
         }
       },
+      "nunit.consolerunner/3.7.0": {},
       "nunit3testadapter/3.8.0": {
         "dependencies": {
           "Microsoft.DotNet.InternalAbstractions": "1.0.0",
@@ -506,6 +508,13 @@
       "sha512": "sha512-vUTICvR3uqw6OTOcwsfz22KjVk8xFcNdz22XnGPL3itQU7+HSV+8xySjGmVkMWZ4IPbaV/+T33C775EEtiEYIA==",
       "path": "nunit/3.7.1",
       "hashPath": "nunit.3.7.1.nupkg.sha512"
+    },
+    "nunit.consolerunner/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7K9dbmg+t0AM1/vDNy3chuU+ctUa2ApnoWeLFhu2ELjXEpSAv/Vfn0frBPGwWOd1TyKcPfMJ89rMtX+RNqzvnQ==",
+      "path": "nunit.consolerunner/3.7.0",
+      "hashPath": "nunit.consolerunner.3.7.0.nupkg.sha512"
     },
     "nunit3testadapter/3.8.0": {
       "type": "package",
