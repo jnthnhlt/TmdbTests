@@ -1,0 +1,16 @@
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbTests.deps.json
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbTests.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\obj\Debug\netcoreapp1.1\TmdbTests.csprojResolveAssemblyReference.cache
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\obj\Debug\netcoreapp1.1\TmdbTests.AssemblyInfo.cs
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\NUnit3.TestAdapter.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\nunit.engine.netstandard.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\Mono.Cecil.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbTests.pdb
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TestClients.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbData.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TestClients.pdb
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbData.pdb
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\obj\Debug\netcoreapp1.1\TmdbTests.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\obj\Debug\netcoreapp1.1\TmdbTests.pdb
+C:\Users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbTests.runtimeconfig.json
+C:\Users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbTests\bin\Debug\netcoreapp1.1\TmdbTests.runtimeconfig.dev.json

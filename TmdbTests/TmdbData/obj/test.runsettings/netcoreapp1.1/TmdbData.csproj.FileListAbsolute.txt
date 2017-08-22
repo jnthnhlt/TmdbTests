@@ -1,0 +1,6 @@
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbData\bin\test.runsettings\netcoreapp1.1\TmdbData.deps.json
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbData\bin\test.runsettings\netcoreapp1.1\TmdbData.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbData\bin\test.runsettings\netcoreapp1.1\TmdbData.pdb
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbData\obj\test.runsettings\netcoreapp1.1\TmdbData.AssemblyInfo.cs
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbData\obj\test.runsettings\netcoreapp1.1\TmdbData.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbData\obj\test.runsettings\netcoreapp1.1\TmdbData.pdb

@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/mCU8EOsEgedO2PvE2uPHWer1FZR.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "http://www.1911movie.com/",
+  "id": 76349,
+  "imdb_id": "tt1772230",
+  "original_language": "zh",
+  "original_title": "辛亥革命",
+  "overview": "At the beginning of the 20th century, China is in a state of crisis. The country is split into warring factions, the citizens are starving, and recent political reforms have made matters worse, not better. The ruling Qing Dynasty, led by a seven-year-old emperor, and his ruthless mother, Empress Dowager Longyu is completely out of touch after 250 years of unquestioned power. Huang Xing has recently returned from Japan, where he has studied the art of modern warfare. When he finds his country falling apart, he feels he has no choice but to pick up the sword.",
+  "popularity": 0.554912,
+  "poster_path": "/4B553EK5EWUc28Jvl2vZ3xwDWF4.jpg",
+  "production_companies": [
+    {
+      "name": "Variance Films",
+      "id": 15071
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2011-07-03",
+  "revenue": 108348,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fall of the Last Empire",
+  "title": "1911",
+  "video": false,
+  "vote_average": 5,
+  "vote_count": 40,
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "1911"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Xīnhài Gémìng"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "1911 Revolution"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Jackie Chan - 1911 Revolution"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "1911"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "1911"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "1911 (Xin hai ge ming) (2011)"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Xinhai Revolution"
+      }
+    ]
+  }
+}

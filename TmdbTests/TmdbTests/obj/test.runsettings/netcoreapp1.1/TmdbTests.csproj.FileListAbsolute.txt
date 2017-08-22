@@ -1,0 +1,15 @@
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\NUnit3.TestAdapter.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\nunit.engine.netstandard.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\Mono.Cecil.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbTests.deps.json
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbTests.runtimeconfig.json
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbTests.runtimeconfig.dev.json
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbTests.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbTests.pdb
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TestClients.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbData.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TestClients.pdb
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\bin\test.runsettings\netcoreapp1.1\TmdbData.pdb
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\obj\test.runsettings\netcoreapp1.1\TmdbTests.AssemblyInfo.cs
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\obj\test.runsettings\netcoreapp1.1\TmdbTests.dll
+C:\Users\i67856\Documents\Visual Studio 2017\Projects\TmdbTests\TmdbTests\obj\test.runsettings\netcoreapp1.1\TmdbTests.pdb

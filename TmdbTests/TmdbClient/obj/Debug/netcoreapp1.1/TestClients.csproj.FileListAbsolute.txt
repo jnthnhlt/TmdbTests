@@ -1,0 +1,9 @@
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\bin\Debug\netcoreapp1.1\TestClients.deps.json
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\bin\Debug\netcoreapp1.1\TestClients.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\bin\Debug\netcoreapp1.1\TestClients.pdb
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\bin\Debug\netcoreapp1.1\TmdbData.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\bin\Debug\netcoreapp1.1\TmdbData.pdb
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\obj\Debug\netcoreapp1.1\TestClients.csprojResolveAssemblyReference.cache
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\obj\Debug\netcoreapp1.1\TestClients.AssemblyInfo.cs
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\obj\Debug\netcoreapp1.1\TestClients.dll
+c:\users\i67856\documents\visual studio 2017\Projects\TmdbTests\TmdbClient\obj\Debug\netcoreapp1.1\TestClients.pdb

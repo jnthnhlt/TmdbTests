@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/phszHPFVhPHhMZgo0fWTKBDQsJA.jpg",
+  "belongs_to_collection": {
+    "id": 8945,
+    "name": "Mad Max Collection",
+    "poster_path": "/jZowUf4okNYuSlgj5iURE7CDMho.jpg",
+    "backdrop_path": "/zI0q2ENcQOLECbe0gAEGlncVh2j.jpg"
+  },
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 878,
+      "name": "Ciencia ficción"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    }
+  ],
+  "homepage": "",
+  "id": 76341,
+  "imdb_id": "tt1392190",
+  "original_language": "en",
+  "original_title": "Mad Max: Fury Road",
+  "overview": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una \"guerra de la carretera\" de altas revoluciones... Cuarta entrega de la saga post-apocalíptica que resucita la trilogía que a principios de los ochenta protagonizó Mel Gibson.",
+  "popularity": 29.997047,
+  "poster_path": "/ylb23f8lJRPrLaAK7jdAXB7xpf.jpg",
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "id": 79
+    },
+    {
+      "name": "Kennedy Miller Productions",
+      "id": 2537
+    },
+    {
+      "name": "Warner Bros.",
+      "id": 6194
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-05-13",
+  "revenue": 378858340,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "El futuro pertenece a los locos.",
+  "title": "Mad Max: Furia en el camino",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 9020
+}
